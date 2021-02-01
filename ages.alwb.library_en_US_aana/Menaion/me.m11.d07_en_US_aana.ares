@@ -17,15 +17,15 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meVE.Stichera01.mode = misc_en_US_aana.Mode1
-alt1.meVE.Stichera01.melody = he.a.m1_en_US_aana.OTouParadoxouThavmatos.name
+alt1.meVE.Stichera01.melody = he.a.m1_en_US_aana.OTouParadoxouThavmatos.incipit
 alt1.meVE.Stichera01.text = "Blessed, holy Father Raphael, * thou made incarnate the love * of Christ Jesus from thy youth, * O son of the Church of Antioch sent to America. * Concerned not with thine own ease, * thou wast Apostle to the lost sheep of Syria. * From Russia thou didst arrive, * trav’ling from east to the west and from north to south, * and didst give thyself no respite, * but didst labor day and night. * As thou hast boldness with Christ God, * intercede with Him to save our souls."
 
 alt1.meVE.Stichera02.mode = misc_en_US_aana.Mode1
-alt1.meVE.Stichera02.melody = he.a.m1_en_US_aana.OTouParadoxouThavmatos.name
+alt1.meVE.Stichera02.melody = he.a.m1_en_US_aana.OTouParadoxouThavmatos.incipit
 alt1.meVE.Stichera02.text = "Thine affairs thou truly didst conduct * like a good shepherd, O Saint, * traveling by land and sea, * traversing mountains and plains, thou roaming near and far * seeking the Lord’s lost sheep. * To bind their wounds with thy fatherly, Christ-like love, * and carry them in thine arms, * and to the holy flock of Christ reunite them all, * thou didst bear the heat and toil of day, * and the chill and length of night. * As thou hast boldness with Christ God, * intercede with Him to save our souls."
 
 alt1.meVE.Stichera03.mode = misc_en_US_aana.Mode1
-alt1.meVE.Stichera03.melody = he.a.m1_en_US_aana.OTouParadoxouThavmatos.name
+alt1.meVE.Stichera03.melody = he.a.m1_en_US_aana.OTouParadoxouThavmatos.incipit
 alt1.meVE.Stichera03.text = "Orthodox believers found in thee, * O good shepherd Raphael, * a defense against their foes, * a sustenance for their souls, the lost’s own guiding star. * No hardships kept thou in sight, * fixing thine eyes on the prize and high call of God. * Thou counted all things as naught, * and suffered all loss that thou might win Christ our God. * Laying down thy life for Christ’s sheep, * thou art surely glorified. * As thou hast boldness with Christ God, * intercede with Him to save our souls."
 
 alt1.meVE.SticGlory.mode = misc_en_US_aana.Mode6
@@ -37,15 +37,15 @@ alt1.meVE.LityGlory.melody = ""
 alt1.meVE.LityGlory.text = "Enlightened by the memory of holy Raphael, we celebrate his sacred feast. For, having been made divinely wise, he draweth us all into Christ’s net, as he entreats Great Mercy for our souls."
 
 alt1.meVE.Aposticha1.mode = misc_en_US_aana.Mode2
-alt1.meVE.Aposticha1.melody = he.a.m2_en_US_aana.OikosTouEfratha.name
+alt1.meVE.Aposticha1.melody = he.a.m2_en_US_aana.OikosTouEfratha.incipit
 alt1.meVE.Aposticha1.text = "O Father Raphael, * of thy travail who can tell? * Thy hardships who can number? * O father to all orphans, pray that the Church be kept in peace."
 
 alt1.meVE.Aposticha2.mode = misc_en_US_aana.Mode2
-alt1.meVE.Aposticha2.melody = he.a.m2_en_US_aana.OikosTouEfratha.name
+alt1.meVE.Aposticha2.melody = he.a.m2_en_US_aana.OikosTouEfratha.incipit
 alt1.meVE.Aposticha2.text = "O holy Raphael, * of thy distress who can tell? * Thy noble deeds who can recount? * Friend of the poor and needy, for our salvation intercede."
 
 alt1.meVE.Aposticha3.mode = misc_en_US_aana.Mode2
-alt1.meVE.Aposticha3.melody = he.a.m2_en_US_aana.OikosTouEfratha.name
+alt1.meVE.Aposticha3.melody = he.a.m2_en_US_aana.OikosTouEfratha.incipit
 alt1.meVE.Aposticha3.text = "O glorious Raphael, * good shepherd to the lost sheep, * great light that shone from Antioch, * America’s boast, pray Christ, that He be greatly merciful."
 
 alt1.meVE.AposGlory.mode = misc_en_US_aana.Mode4
@@ -53,19 +53,19 @@ alt1.meVE.AposGlory.melody = ""
 alt1.meVE.AposGlory.text = "Today a splendid festival dawns upon the whole world. Today the lands of Russia and ancient Syria celebrate the memory of their righteous son Raphael, apostle to America, good shepherd of the lost sheep. Wherefore, let us celebrate this festive day and cry out unto him, saying: Rejoice, O new Moses, who didst lead thy people out of the wilderness into the Promised Land! Rejoice, O new Elias, who hast placed within the holy Church a double portion of thy spirit! Rejoice, O new Ezra, thou builder of the Temple of God! Rejoice, O new Apostle of Christ our God, the fisher of men! As thou hast boldness with the Angels before the throne of God, never cease to intercede with Christ God for thy holy flock."
 
 alt1.meVE.Apolytikion1.mode = misc_en_US_aana.Mode3
-alt1.meVE.Apolytikion1.melody = he.a.m3_en_US_aana.TheiasPisteos.name
+alt1.meVE.Apolytikion1.melody = he.a.m3_en_US_aana.TheiasPisteos.incipit
 alt1.meVE.Apolytikion1.text = "Thou art champion of the one true faith, * consolation of the persecuted, * father of the orphans, friend of the destitute, * peacemaker and good shepherd, and seeker of the lost, * O Father Raphael, the joy of the Orthodox. * Son of Antioch and boast of America, beseech * Christ God for us and for all those who honor thee."
 
 alt1.meMA.Kathisma11.mode = misc_en_US_aana.Mode1
-alt1.meMA.Kathisma11.melody = he.a.m1_en_US_aana.TonTafonSouSotir.name
+alt1.meMA.Kathisma11.melody = he.a.m1_en_US_aana.TonTafonSouSotir.incipit
 alt1.meMA.Kathisma11.text = "In word, in deed and thought, thou didst follow the Savior. * Thou didst obey His call to live like the apostles. * Then, leaving thine own homeland, thou didst gift thy flock with baptism, * teaching them to profess the One true God in Three Persons. * Hence, we call thee now a faithful preacher of true faith,* O holy hierarch Raphael."
 
 alt1.meMA.Kathisma1T.mode = misc_en_US_aana.Mode1
-alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_aana.TonTafonSouSotir.name
+alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_aana.TonTafonSouSotir.incipit
 alt1.meMA.Kathisma1T.text = "Unwedded mother Virgin, the pure Theotokos, * in life save from calamities and various afflictions, * the faithful who hide beneath the Redeemer’s life-giving Cross, * who doth bear with patience and with faith their pure contest. * Mother of Christ our God, thou art the sure intercessor; * pray for us and save our souls."
 
 alt1.meMA.Kathisma21.mode = misc_en_US_aana.Mode3
-alt1.meMA.Kathisma21.melody = he.a.m3_en_US_aana.TinOraiotita.name
+alt1.meMA.Kathisma21.melody = he.a.m3_en_US_aana.TinOraiotita.incipit
 alt1.meMA.Kathisma21.text = "Bearing thy cross from youth, thou didst deny thyself. * Forgoing earthly things, thou soughtest the heavenly. * Consumed by heartfelt love for Christ, thou foundest thy precious life in Him. * When Christ our life manifests, to judge the living and the dead, * thou shalt also stand before him, * shining brightly and glorified. * Then, on that fearful, solemn day of Judgment, * pray to Christ for us who honor thee."
 
 alt1.meMA.Kathisma2T.mode = misc_en_US_aana.Mode3
@@ -73,11 +73,11 @@ alt1.meMA.Kathisma2T.melody = misc_en_US_aana.Automelon
 alt1.meMA.Kathisma2T.text = he.a.m3_en_US_aana.TinOraiotita.text
 
 alt1.meMA.Kathisma31.mode = misc_en_US_aana.Mode4
-alt1.meMA.Kathisma31.melody = he.a.m4_en_US_aana.KateplagiIosif.name
+alt1.meMA.Kathisma31.melody = he.a.m4_en_US_aana.KateplagiIosif.incipit
 alt1.meMA.Kathisma31.text = "As a model of vigilance, * over the passions thou didst rule, * cultivating in thy soul * the Holy Spirit’s precious gifts. * A soothing balm and a man of peace who united all thy flock, * thou didst keep it safe * from the fierce wolf of souls. * As a faithful shepherd, thou didst gather those * who were before dispersed as weak lambs lost in the hills * through the grace abiding in thy soul. * O Father Raphael, lead thou to safe pasture * those who pray to thee with fervor."
 
 alt1.meMA.Kathisma3T.mode = misc_en_US_aana.Mode4
-alt1.meMA.Kathisma3T.melody = he.a.m4_en_US_aana.KateplagiIosif.name
+alt1.meMA.Kathisma3T.melody = he.a.m4_en_US_aana.KateplagiIosif.incipit
 alt1.meMA.Kathisma3T.text = "O all-pure and full of grace, * the Virgin Mother of the Lord, * who gave birth to Him who is * the One Eternal God of all, * beseech and supplicate Him with the hierarch Raphael * to grant unto us * the forgiveness of our sins, * and before the end reformation of life; * for thee, O Lady, we exalt and magnify, * and with faith and love we honor thee. * O Virgin Mary, thou art worthy * of all reverence and glory."
 
 alt1.meMA.PostGospelGlory.mode = misc_en_US_aana.Mode2
@@ -97,56 +97,56 @@ alt1.meMA.C1.verse = ""
 
 alt1.meMA.Ode1C11.ode = misc_en_US_aana.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode1C11.melody = he.h.m6_en_US_aana.OsEnIpeiroPezefsas.name
+alt1.meMA.Ode1C11.melody = he.h.m6_en_US_aana.OsEnIpeiroPezefsas.incipit
 alt1.meMA.Ode1C11.text = ""
 
 alt1.meMA.Ode1C12.ode = misc_en_US_aana.Ode1
 alt1.meMA.Ode1C12.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode1C12.melody = he.h.m6_en_US_aana.OsEnIpeiroPezefsas.name
+alt1.meMA.Ode1C12.melody = he.h.m6_en_US_aana.OsEnIpeiroPezefsas.incipit
 alt1.meMA.Ode1C12.text = ""
 
 alt1.meMA.Ode1C13.ode = misc_en_US_aana.Ode1
 alt1.meMA.Ode1C13.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode1C13.melody = he.h.m6_en_US_aana.OsEnIpeiroPezefsas.name
+alt1.meMA.Ode1C13.melody = he.h.m6_en_US_aana.OsEnIpeiroPezefsas.incipit
 alt1.meMA.Ode1C13.text = ""
 
 alt1.meMA.Ode1C14.ode = misc_en_US_aana.Ode1
 alt1.meMA.Ode1C14.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode1C14.melody = he.h.m6_en_US_aana.OsEnIpeiroPezefsas.name
+alt1.meMA.Ode1C14.melody = he.h.m6_en_US_aana.OsEnIpeiroPezefsas.incipit
 alt1.meMA.Ode1C14.text = ""
 
 alt1.meMA.Ode1C1T.ode = misc_en_US_aana.Ode1
 alt1.meMA.Ode1C1T.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode1C1T.melody = he.h.m6_en_US_aana.OsEnIpeiroPezefsas.name
+alt1.meMA.Ode1C1T.melody = he.h.m6_en_US_aana.OsEnIpeiroPezefsas.incipit
 alt1.meMA.Ode1C1T.text = ""
 
 alt1.meMA.Ode3C11.ode = misc_en_US_aana.Ode3
 alt1.meMA.Ode3C11.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode3C11.melody = he.h.m6_en_US_aana.OukEstinAgios.name
+alt1.meMA.Ode3C11.melody = he.h.m6_en_US_aana.OukEstinAgios.incipit
 alt1.meMA.Ode3C11.text = ""
 
 alt1.meMA.Ode3C12.ode = misc_en_US_aana.Ode3
 alt1.meMA.Ode3C12.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode3C12.melody = he.h.m6_en_US_aana.OukEstinAgios.name
+alt1.meMA.Ode3C12.melody = he.h.m6_en_US_aana.OukEstinAgios.incipit
 alt1.meMA.Ode3C12.text = ""
 
 alt1.meMA.Ode3C13.ode = misc_en_US_aana.Ode3
 alt1.meMA.Ode3C13.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode3C13.melody = he.h.m6_en_US_aana.OukEstinAgios.name
+alt1.meMA.Ode3C13.melody = he.h.m6_en_US_aana.OukEstinAgios.incipit
 alt1.meMA.Ode3C13.text = ""
 
 alt1.meMA.Ode3C14.ode = misc_en_US_aana.Ode3
 alt1.meMA.Ode3C14.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode3C14.melody = he.h.m6_en_US_aana.OukEstinAgios.name
+alt1.meMA.Ode3C14.melody = he.h.m6_en_US_aana.OukEstinAgios.incipit
 alt1.meMA.Ode3C14.text = ""
 
 alt1.meMA.Ode3C1T.ode = misc_en_US_aana.Ode3
 alt1.meMA.Ode3C1T.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode3C1T.melody = he.h.m6_en_US_aana.OukEstinAgios.name
+alt1.meMA.Ode3C1T.melody = he.h.m6_en_US_aana.OukEstinAgios.incipit
 alt1.meMA.Ode3C1T.text = ""
 
 alt1.meMA.Ode3Kathisma1.mode = misc_en_US_aana.Mode4
-alt1.meMA.Ode3Kathisma1.melody = he.a.m4_en_US_aana.KateplagiIosif.name
+alt1.meMA.Ode3Kathisma1.melody = he.a.m4_en_US_aana.KateplagiIosif.incipit
 alt1.meMA.Ode3Kathisma1.text = ""
 
 alt1.meMA.Ode3KathismaT.mode = misc_en_US_aana.Mode4
@@ -155,77 +155,77 @@ alt1.meMA.Ode3KathismaT.text = ""
 
 alt1.meMA.Ode4C11.ode = misc_en_US_aana.Ode4
 alt1.meMA.Ode4C11.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode4C11.melody = he.h.m6_en_US_aana.ChristosMouDynamis.name
+alt1.meMA.Ode4C11.melody = he.h.m6_en_US_aana.ChristosMouDynamis.incipit
 alt1.meMA.Ode4C11.text = ""
 
 alt1.meMA.Ode4C12.ode = misc_en_US_aana.Ode4
 alt1.meMA.Ode4C12.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode4C12.melody = he.h.m6_en_US_aana.ChristosMouDynamis.name
+alt1.meMA.Ode4C12.melody = he.h.m6_en_US_aana.ChristosMouDynamis.incipit
 alt1.meMA.Ode4C12.text = ""
 
 alt1.meMA.Ode4C13.ode = misc_en_US_aana.Ode4
 alt1.meMA.Ode4C13.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode4C13.melody = he.h.m6_en_US_aana.ChristosMouDynamis.name
+alt1.meMA.Ode4C13.melody = he.h.m6_en_US_aana.ChristosMouDynamis.incipit
 alt1.meMA.Ode4C13.text = ""
 
 alt1.meMA.Ode4C14.ode = misc_en_US_aana.Ode4
 alt1.meMA.Ode4C14.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode4C14.melody = he.h.m6_en_US_aana.ChristosMouDynamis.name
+alt1.meMA.Ode4C14.melody = he.h.m6_en_US_aana.ChristosMouDynamis.incipit
 alt1.meMA.Ode4C14.text = ""
 
 alt1.meMA.Ode4C1T.ode = misc_en_US_aana.Ode4
 alt1.meMA.Ode4C1T.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode4C1T.melody = he.h.m6_en_US_aana.ChristosMouDynamis.name
+alt1.meMA.Ode4C1T.melody = he.h.m6_en_US_aana.ChristosMouDynamis.incipit
 alt1.meMA.Ode4C1T.text = ""
 
 alt1.meMA.Ode5C11.ode = misc_en_US_aana.Ode5
 alt1.meMA.Ode5C11.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode5C11.melody = he.h.m6_en_US_aana.ToTheioFengeiSou.name
+alt1.meMA.Ode5C11.melody = he.h.m6_en_US_aana.ToTheioFengeiSou.incipit
 alt1.meMA.Ode5C11.text = ""
 
 alt1.meMA.Ode5C12.ode = misc_en_US_aana.Ode5
 alt1.meMA.Ode5C12.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode5C12.melody = he.h.m6_en_US_aana.ToTheioFengeiSou.name
+alt1.meMA.Ode5C12.melody = he.h.m6_en_US_aana.ToTheioFengeiSou.incipit
 alt1.meMA.Ode5C12.text = ""
 
 alt1.meMA.Ode5C13.ode = misc_en_US_aana.Ode5
 alt1.meMA.Ode5C13.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode5C13.melody = he.h.m6_en_US_aana.ToTheioFengeiSou.name
+alt1.meMA.Ode5C13.melody = he.h.m6_en_US_aana.ToTheioFengeiSou.incipit
 alt1.meMA.Ode5C13.text = ""
 
 alt1.meMA.Ode5C14.ode = misc_en_US_aana.Ode5
 alt1.meMA.Ode5C14.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode5C14.melody = he.h.m6_en_US_aana.ToTheioFengeiSou.name
+alt1.meMA.Ode5C14.melody = he.h.m6_en_US_aana.ToTheioFengeiSou.incipit
 alt1.meMA.Ode5C14.text = ""
 
 alt1.meMA.Ode5C1T.ode = misc_en_US_aana.Ode5
 alt1.meMA.Ode5C1T.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode5C1T.melody = he.h.m6_en_US_aana.ToTheioFengeiSou.name
+alt1.meMA.Ode5C1T.melody = he.h.m6_en_US_aana.ToTheioFengeiSou.incipit
 alt1.meMA.Ode5C1T.text = ""
 
 alt1.meMA.Ode6C11.ode = misc_en_US_aana.Ode6
 alt1.meMA.Ode6C11.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode6C11.melody = he.h.m6_en_US_aana.TouViouTinThalassan.name
+alt1.meMA.Ode6C11.melody = he.h.m6_en_US_aana.TouViouTinThalassan.incipit
 alt1.meMA.Ode6C11.text = ""
 
 alt1.meMA.Ode6C12.ode = misc_en_US_aana.Ode6
 alt1.meMA.Ode6C12.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode6C12.melody = he.h.m6_en_US_aana.TouViouTinThalassan.name
+alt1.meMA.Ode6C12.melody = he.h.m6_en_US_aana.TouViouTinThalassan.incipit
 alt1.meMA.Ode6C12.text = ""
 
 alt1.meMA.Ode6C13.ode = misc_en_US_aana.Ode6
 alt1.meMA.Ode6C13.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode6C13.melody = he.h.m6_en_US_aana.TouViouTinThalassan.name
+alt1.meMA.Ode6C13.melody = he.h.m6_en_US_aana.TouViouTinThalassan.incipit
 alt1.meMA.Ode6C13.text = ""
 
 alt1.meMA.Ode6C14.ode = misc_en_US_aana.Ode6
 alt1.meMA.Ode6C14.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode6C14.melody = he.h.m6_en_US_aana.TouViouTinThalassan.name
+alt1.meMA.Ode6C14.melody = he.h.m6_en_US_aana.TouViouTinThalassan.incipit
 alt1.meMA.Ode6C14.text = ""
 
 alt1.meMA.Ode6C1T.ode = misc_en_US_aana.Ode6
 alt1.meMA.Ode6C1T.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode6C1T.melody = he.h.m6_en_US_aana.TouViouTinThalassan.name
+alt1.meMA.Ode6C1T.melody = he.h.m6_en_US_aana.TouViouTinThalassan.incipit
 alt1.meMA.Ode6C1T.text = ""
 
 alt1.meMA.Kontakion1.mode = misc_en_US_aana.Mode8
@@ -238,97 +238,97 @@ alt1.meMA.Synaxarion.commemoration.text = "On the first Saturday in November, we
 
 alt1.meMA.Ode7C11.ode = misc_en_US_aana.Ode7
 alt1.meMA.Ode7C11.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode7C11.melody = he.h.m6_en_US_aana.DrosovolonMenTinKaminon.name
+alt1.meMA.Ode7C11.melody = he.h.m6_en_US_aana.DrosovolonMenTinKaminon.incipit
 alt1.meMA.Ode7C11.text = ""
 
 alt1.meMA.Ode7C12.ode = misc_en_US_aana.Ode7
 alt1.meMA.Ode7C12.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode7C12.melody = he.h.m6_en_US_aana.DrosovolonMenTinKaminon.name
+alt1.meMA.Ode7C12.melody = he.h.m6_en_US_aana.DrosovolonMenTinKaminon.incipit
 alt1.meMA.Ode7C12.text = ""
 
 alt1.meMA.Ode7C13.ode = misc_en_US_aana.Ode7
 alt1.meMA.Ode7C13.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode7C13.melody = he.h.m6_en_US_aana.DrosovolonMenTinKaminon.name
+alt1.meMA.Ode7C13.melody = he.h.m6_en_US_aana.DrosovolonMenTinKaminon.incipit
 alt1.meMA.Ode7C13.text = ""
 
 alt1.meMA.Ode7C14.ode = misc_en_US_aana.Ode7
 alt1.meMA.Ode7C14.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode7C14.melody = he.h.m6_en_US_aana.DrosovolonMenTinKaminon.name
+alt1.meMA.Ode7C14.melody = he.h.m6_en_US_aana.DrosovolonMenTinKaminon.incipit
 alt1.meMA.Ode7C14.text = ""
 
 alt1.meMA.Ode7C1T.ode = misc_en_US_aana.Ode7
 alt1.meMA.Ode7C1T.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode7C1T.melody = he.h.m6_en_US_aana.DrosovolonMenTinKaminon.name
+alt1.meMA.Ode7C1T.melody = he.h.m6_en_US_aana.DrosovolonMenTinKaminon.incipit
 alt1.meMA.Ode7C1T.text = ""
 
 alt1.meMA.Ode8C11.ode = misc_en_US_aana.Ode8
 alt1.meMA.Ode8C11.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode8C11.melody = he.h.m6_en_US_aana.EkFlogosToisOsiois.name
+alt1.meMA.Ode8C11.melody = he.h.m6_en_US_aana.EkFlogosToisOsiois.incipit
 alt1.meMA.Ode8C11.text = ""
 
 alt1.meMA.Ode8C12.ode = misc_en_US_aana.Ode8
 alt1.meMA.Ode8C12.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode8C12.melody = he.h.m6_en_US_aana.EkFlogosToisOsiois.name
+alt1.meMA.Ode8C12.melody = he.h.m6_en_US_aana.EkFlogosToisOsiois.incipit
 alt1.meMA.Ode8C12.text = ""
 
 alt1.meMA.Ode8C13.ode = misc_en_US_aana.Ode8
 alt1.meMA.Ode8C13.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode8C13.melody = he.h.m6_en_US_aana.EkFlogosToisOsiois.name
+alt1.meMA.Ode8C13.melody = he.h.m6_en_US_aana.EkFlogosToisOsiois.incipit
 alt1.meMA.Ode8C13.text = ""
 
 alt1.meMA.Ode8C14.ode = misc_en_US_aana.Ode8
 alt1.meMA.Ode8C14.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode8C14.melody = he.h.m6_en_US_aana.EkFlogosToisOsiois.name
+alt1.meMA.Ode8C14.melody = he.h.m6_en_US_aana.EkFlogosToisOsiois.incipit
 alt1.meMA.Ode8C14.text = ""
 
 alt1.meMA.Ode8C1T.ode = misc_en_US_aana.Ode8
 alt1.meMA.Ode8C1T.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode8C1T.melody = he.h.m6_en_US_aana.EkFlogosToisOsiois.name
+alt1.meMA.Ode8C1T.melody = he.h.m6_en_US_aana.EkFlogosToisOsiois.incipit
 alt1.meMA.Ode8C1T.text = ""
 
 alt1.meMA.Ode9C11.ode = misc_en_US_aana.Ode9
 alt1.meMA.Ode9C11.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode9C11.melody = he.h.m6_en_US_aana.TheonAnthropois.name
+alt1.meMA.Ode9C11.melody = he.h.m6_en_US_aana.TheonAnthropois.incipit
 alt1.meMA.Ode9C11.text = ""
 
 alt1.meMA.Ode9C12.ode = misc_en_US_aana.Ode9
 alt1.meMA.Ode9C12.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode9C12.melody = he.h.m6_en_US_aana.TheonAnthropois.name
+alt1.meMA.Ode9C12.melody = he.h.m6_en_US_aana.TheonAnthropois.incipit
 alt1.meMA.Ode9C12.text = ""
 
 alt1.meMA.Ode9C13.ode = misc_en_US_aana.Ode9
 alt1.meMA.Ode9C13.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode9C13.melody = he.h.m6_en_US_aana.TheonAnthropois.name
+alt1.meMA.Ode9C13.melody = he.h.m6_en_US_aana.TheonAnthropois.incipit
 alt1.meMA.Ode9C13.text = ""
 
 alt1.meMA.Ode9C14.ode = misc_en_US_aana.Ode9
 alt1.meMA.Ode9C14.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode9C14.melody = he.h.m6_en_US_aana.TheonAnthropois.name
+alt1.meMA.Ode9C14.melody = he.h.m6_en_US_aana.TheonAnthropois.incipit
 alt1.meMA.Ode9C14.text = ""
 
 alt1.meMA.Ode9C1T.ode = misc_en_US_aana.Ode9
 alt1.meMA.Ode9C1T.mode = misc_en_US_aana.Mode6
-alt1.meMA.Ode9C1T.melody = he.h.m6_en_US_aana.TheonAnthropois.name
+alt1.meMA.Ode9C1T.melody = he.h.m6_en_US_aana.TheonAnthropois.incipit
 alt1.meMA.Ode9C1T.text = ""
 
 alt1.meMA.Exaposteilarion1.mode = misc_en_US_aana.Mode3
-alt1.meMA.Exaposteilarion1.melody = he.a.m3_en_US_aana.TonNymfonaSouVlepo.name
+alt1.meMA.Exaposteilarion1.melody = he.a.m3_en_US_aana.TonNymfonaSouVlepo.incipit
 alt1.meMA.Exaposteilarion1.text = "Today is truly illumined * by the great brilliance of this feast. * For, holy hierarch Raphael, * at God’s august throne standeth, * and intercedeth for us who cry: * Good shepherd, remember us thy flock."
 
 alt1.meMA.ExapTheotokion.mode = misc_en_US_aana.Mode3
-alt1.meMA.ExapTheotokion.melody = he.a.m3_en_US_aana.TonNymfonaSouVlepo.name
+alt1.meMA.ExapTheotokion.melody = he.a.m3_en_US_aana.TonNymfonaSouVlepo.incipit
 alt1.meMA.ExapTheotokion.text = "Thou art the sweetness of angels,* the gladness of afflicted ones,* and the protectress of Christians,* O Virgin Mother of our Lord God; * be thou my helper and save me * from out of eternal torments."
 
 alt1.meMA.Lauds1.mode = misc_en_US_aana.Mode4
-alt1.meMA.Lauds1.melody = he.a.m4_en_US_aana.EdokasSimeiosin.name
+alt1.meMA.Lauds1.melody = he.a.m4_en_US_aana.EdokasSimeiosin.incipit
 alt1.meMA.Lauds1.text = "Under thy pastoral care, the Church took root in America. * Thou established the Mother Church, * the ven’rable holy temple * of the Wonderworker, * irrigating it with toils and fervent holy prayers, * and planting thy precious body at thine end. * Thy children then, throughout the land, fulfilled thy words and held fast the Faith. * As thou standest at God’s high throne, * now beseech Him to save our souls."
 
 alt1.meMA.Lauds2.mode = misc_en_US_aana.Mode4
-alt1.meMA.Lauds2.melody = he.a.m4_en_US_aana.EdokasSimeiosin.name
+alt1.meMA.Lauds2.melody = he.a.m4_en_US_aana.EdokasSimeiosin.incipit
 alt1.meMA.Lauds2.text = "Fervent and devoted celebrant of off’rings and mysteries, * who can tell of the countless hours * thou spentest translating them * for the sake of thy flock? * Thou didst gather pearls from the Greek and from Slavonic tongues, * and fashioned them into pearls of Arabic. * Thou also taught us to worship in the tongue of America. * As thou standest at God’s high throne, * now beseech Him to save our souls."
 
 alt1.meMA.Lauds3.mode = misc_en_US_aana.Mode4
-alt1.meMA.Lauds3.melody = he.a.m4_en_US_aana.EdokasSimeiosin.name
+alt1.meMA.Lauds3.melody = he.a.m4_en_US_aana.EdokasSimeiosin.incipit
 alt1.meMA.Lauds3.text = "As a worthy hierarch, thou didst take upon thyself the needs * and concerns of thy holy flock; * in towns, villages and farms, * to thyself didst draw them. * Thou didst keep thy sheep from going astray into strange fields; * thy hand kept them safe from devouring, evil wolves. * Thy deeds of love grew brighter as the churches grew in number. * As thou standest at God’s high throne, * now beseech Him to save our souls."
 
 alt1.meMA.LaudsGlory.mode = misc_en_US_aana.Mode5
