@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = me.m11.d07_en_US_aana
 
-alt1.meDate.text = "On the first Saturday of November" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meCommemoration.text = "Memory of our Holy Father Raphael, Bishop of Brooklyn" // full title of day
-alt1.meShortCommemoration1.text = "Memory of our Holy Father Raphael, Bishop of Brooklyn"
-alt1.meCom1.title = ""
-alt1.meCom2.title = "whose memory we celebrate;"
-alt1.meInsert1 = "our holy father Raphael, Bishop of Brooklyn," // for use in petitions and dismissal
-alt1.meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-alt1.meNote.text = "Text taken from \"Our Father among the Saints Raphael, Bishop of Brooklyn.\" Antakya Press, Antiochian Orthodox Christian Archdiocese of North America © 2000. Revised in 2020 by the Department of Liturgics. All rights reserved. Used by permission."
+alt1.meDA.date = "On the first Saturday of November" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.commemoration.full = "Memory of our Holy Father Raphael, Bishop of Brooklyn" // full title of day
+alt1.meDA.commemoration.first_short = "Memory of our Holy Father Raphael, Bishop of Brooklyn"
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = "whose memory we celebrate;"
+alt1.meDA.insert1 = "our holy father Raphael, Bishop of Brooklyn," // for use in petitions and dismissal
+alt1.meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
+alt1.meDA.note = "Text taken from \"Our Father among the Saints Raphael, Bishop of Brooklyn.\" Antakya Press, Antiochian Orthodox Christian Archdiocese of North America © 2000. Revised in 2020 by the Department of Liturgics. All rights reserved. Used by permission."
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
