@@ -21,7 +21,7 @@ AnarchouGennitoros.mode = misc_en_US_aana.Mode2
 AnarchouGennitoros.ode = misc_en_US_aana.Ode9
 AnarchouGennitoros.text = ""
 
-AntitheonProstagma.notmetered = "N/M ()"
+AntitheonProstagma.notmetered = "N/M (The godless decree.)"
 AntitheonProstagma.name = ""
 AntitheonProstagma.incipit = "…"
 AntitheonProstagma.mode = misc_en_US_aana.Mode2
@@ -149,9 +149,9 @@ EmegalynasChriste.mode = misc_en_US_aana.Mode2
 EmegalynasChriste.ode = misc_en_US_aana.Ode9
 EmegalynasChriste.text = ""
 
-EnAvyssoPtaismaton.notmetered = "N/M (In the sea now.)"
-EnAvyssoPtaismaton.name = "In the sea now surrounded."
-EnAvyssoPtaismaton.incipit = "In the sea now surrounded…"
+EnAvyssoPtaismaton.notmetered = "N/M (Like a deep sea, my sins.)"
+EnAvyssoPtaismaton.name = "Like a deep sea, my sins."
+EnAvyssoPtaismaton.incipit = "Like a deep sea, my sins…"
 EnAvyssoPtaismaton.mode = misc_en_US_aana.Mode2
 EnAvyssoPtaismaton.ode = misc_en_US_aana.Ode6
 EnAvyssoPtaismaton.text = ""
