@@ -40,7 +40,7 @@ AvyssosEschati.mode = misc_en_US_aana.Mode3
 AvyssosEschati.ode = misc_en_US_aana.Ode6
 AvyssosEschati.text = ""
 
-ChersonAvyssotokon.notmetered = "N/M (Once did the sun.)"
+ChersonAvyssotokon.notmetered = "N/M (Sunlight once hovered.)"
 ChersonAvyssotokon.name = "Once did the sun."
 ChersonAvyssotokon.incipit = "Once did the sun…"
 ChersonAvyssotokon.melody = misc_en_US_aana.Heirmos
