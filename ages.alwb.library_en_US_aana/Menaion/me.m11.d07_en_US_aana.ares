@@ -9,7 +9,7 @@ alt1.meDA.commemoration.second_title = "whose memory we celebrate;"
 alt1.meDA.commemoration.second_name = ""
 alt1.meDA.insert1 = "our holy father Raphael, Bishop of Brooklyn," // for use in petitions and dismissal
 alt1.meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-alt1.meDA.note = "Text taken from \"Our Father among the Saints Raphael, Bishop of Brooklyn.\" Antakya Press, Antiochian Orthodox Christian Archdiocese of North America © 2000. Revised in 2020 by the Department of Liturgics. All rights reserved. Used by permission."
+alt1.meDA.note = "Text taken from “Our Father among the Saints Raphael, Bishop of Brooklyn.” Antakya Press, Antiochian Orthodox Christian Archdiocese of North America © 2000. Revised in 2020 by the Department of Liturgics. All rights reserved. Used by permission."
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -298,7 +298,7 @@ alt1.meMA.Kontakion1.text = "Today the memory of blessed Raphael has shone on us
 
 alt1.meMA.Oikos1.text = "Through laziness I have fallen away and I sleep unto death, but good shepherd, raise me up and calm the passions that wickedly torment me, O blessed one, that I may rise and hymn thy bright festival; for the Master of the universe has glorified this festival of his faithful servant and wise teacher, the friend and preserver and servant of his traditions which thou didst maintain. O pure unction, ceaselessly intercede for us who cry aloud to thee, saying: Rejoice, O Father Raphael!"
 
-alt1.meMA.Synaxarion.commemoration.text = "On the first Saturday in November, we commemorate our father among the Saints, Raphael Hawaweeny, Bishop of Brooklyn, \"good shepherd of the lost sheep in America.\""
+alt1.meMA.Synaxarion.commemoration.text = "On the first Saturday in November, we commemorate our father among the Saints, Raphael Hawaweeny, Bishop of Brooklyn, “good shepherd of the lost sheep in America.”"
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_aana.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_aana.misc.Mode6
